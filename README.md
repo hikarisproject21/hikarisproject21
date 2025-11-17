@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there I'm Annissa Muthmainnah 👋
+
+- 🌱 I’m currently learning ReactJs
+
 
 <!--
 **hikarisproject21/hikarisproject21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
